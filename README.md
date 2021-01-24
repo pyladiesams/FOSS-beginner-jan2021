@@ -1,21 +1,24 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
-### Presentation: (link to your presentation if exists)
+# An introduction to FOSS Contributions
+
+### Level: Beginner
+
+### Presentation: [slides.pdf](slides.pdf)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+
+Learn about Free and Open Source Software, why it's important, and how you can get involved.
+
+It is designed to cover a broad range of basics from technical details to communication. It will also be a hands-on workshop, where you may make your first FOSS contributions!
 
 ## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
 
-## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+A basic understanding of [Git](https://git-scm.com/) and [GitHub](https://github.com/home).
 
 ## Video record
-Will be available within 1-2 weeks after the event
+
+Will be available within 1-2 weeks after the event.
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+
+This workshop was set up by @pyladiesams and @pavithraes.
