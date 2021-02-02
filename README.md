@@ -17,7 +17,7 @@ A basic understanding of [Git](https://git-scm.com/) and [GitHub](https://github
 
 ## Video record
 
-Will be available within 1-2 weeks after the event.
+[An Introduction to FOSS contributions](https://bit.ly/3awGVzY)
 
 ## Credits
 
